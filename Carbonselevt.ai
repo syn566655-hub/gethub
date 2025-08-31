@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KarbonAI - Geleceği Yeşillendiriyoruz</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #2c5c2c; }
+        a { color: #2c5c2c; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>KarbonAI'ya Hoş Geldiniz</h1>
+    <p>Sürdürülebilirlik ve karbon kredisi hakkında AI destekli ücretsiz danışmanlık.</p>
+    <p>🚧 YAKINDA HİZMETİNİZDE 🚧</p>
+    <p>Şimdilik bizi desteklemek isterseniz:</p>
+    <a href="https://buymeacoffee.com/" target="_blank">💚 Bize Kahve Ismarla</a>
+    <br><br>
+    <p>İletişim: [e-posta adresiniz]</p>
+</body>
