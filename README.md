@@ -5,9 +5,7 @@
 ## Overview
 [![Build Status](https://api.travis-ci.org/pearkes/get.png?branch=master)](https://travis-ci.org/pearkes/gethub)
 
-`gethub` helps you keep all of your git repositories that have GitHub
-remotes up to date.
-
+`gethub` helps 
 ## Installation
 
 You can download a binary, `deb` or `exe`, depending on your platform.
